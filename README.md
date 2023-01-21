@@ -1,6 +1,11 @@
 # Hello, I'm Inbeom 🏋️‍♂️
 
 <p><strong> Backend Developer </strong> </p>
+<br>
+
+<!-- 할 말 -->
+<p align="center">I will be a good backend developer..!<br>currently studying spring boot and data processing.</p>
+
 <h3 align="center"> ⚙️ Inbeom's Tech Stack </h3>
 
 <p align="center"> [Techs] that I've used at least once 🌱 </p>
@@ -37,7 +42,7 @@
   Home 👉 <a href = https://www.notion.so/Inbeom-s-Profile-342b42bc3a3e427f8aa7a20638a40f1b>Inbeom's Profile🌱</a>   <br>
   Study 👉 <a href = https://www.notion.so/cf07b473bd1a48a39cec462f39c0e814?v=592ece0c79c841b5869ad7de03f5de7d>Tech Blog 🌱</a>   <br><br>
 </div> 
-<hr>
+<br>
 
 
 
