@@ -35,19 +35,26 @@
 <h2 align="center">🔥 Languages & Frameworks & Tools & Abilities 🔥</h2>
 <br>
 <p align="center">
-  <code><img title="C" height="25" src="images/c.svg"></code>
-  <code><img title="Python" height="25" src="images/python-original.svg"></code>
-  <code><img title="HTML5" height="25" src="images/html5.svg"></code>
-  <code><img title="CSS" height="25" src="images/css.svg"></code>
-  <code><img title="Git" height="25" src="images/git-original.svg"></code>
-  <code><img title="Visual Studio Code" height="25" src="images/vscode.png"></code>
-  <code><img title="JQuery" height="25" src="images/jquery-original.svg"></code>
-  <code><img title="Java" height="25" src="file:///C:/Users/Leeinbeom/Downloads/javaa.svg"></code>
-  <code><img title="JSON" height="25" src="images/json.svg"></code>
-  <code><img title="Android" height="25" src="images/android.svg"></code>
-  <code><img title="GitHub" height="25" src="images/github.svg"></code>
-  <code><img title="MySQL" height="25" src="images/mysql.svg"></code>
-  <code><img title="PHP" height="25" src="images/php.svg"></code>
+  <code><img title="Java" height="50" src="https://user-images.githubusercontent.com/89591782/223758870-2da659e7-8af8-4ad0-8e89-b60f2edaffc1.png"></code>
+  <code><img title="C" height="50" src="https://user-images.githubusercontent.com/89591782/223757643-bc64d590-4c68-40c4-a800-bd0292db4f4f.png"></code>
+  <code><img title="Python" height="50" src="https://user-images.githubusercontent.com/89591782/223758852-0c51fa39-74b4-4bb3-bc0a-5a5b57cb7797.png"></code>
+  <code><img title="HTML5" height="50" src="https://user-images.githubusercontent.com/89591782/223759970-990b53a0-25c1-46d2-bbc2-98b274b3bda3.png"></code>
+  <code><img title="CSS" height="50" src="https://user-images.githubusercontent.com/89591782/223758888-ab6d8732-ba5c-4e92-af8e-a3523ba46cfc.png"></code>
+  
+  <code><img title="JSP" height="50" src="https://user-images.githubusercontent.com/89591782/223761481-66696527-5e13-4bdb-bdab-55c199257466.png"></code>
+  <code><img title="Spring" height="50" src="https://user-images.githubusercontent.com/89591782/223762769-f217c64c-1f8a-4a4d-b536-beb2d70ffa10.png"></code>
+  <code><img title="SpringBoot" height="50" src="https://user-images.githubusercontent.com/89591782/223762622-a69c41c1-129d-41d9-a840-f9728872fda3.png"></code>
+  
+  
+  <code><img title="Git" height="50" src="images/git-original.svg"></code>
+  <code><img title="Visual Studio Code" height="50" src="images/vscode.png"></code>
+  <code><img title="JQuery" height="50" src="images/jquery-original.svg"></code>
+  <code><img title="Java" height="50" src="file:///C:/Users/Leeinbeom/Downloads/javaa.svg"></code>
+  <code><img title="JSON" height="50" src="images/json.svg"></code>
+  <code><img title="Android" height="50" src="images/android.svg"></code>
+  <code><img title="GitHub" height="50" src="images/github.svg"></code>
+  <code><img title="MySQL" height="50" src="images/mysql.svg"></code>
+  <code><img title="PHP" height="50" src="images/php.svg"></code>
 </p>
 <hr>
 
