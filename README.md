@@ -7,7 +7,7 @@
 </h1>
 
 <h5 align="center">
-<img alt="Twitter URL" src="https://img.shields.io/twitter/url?color=skyblue&label=Notion&style=for-the-badge&url=https%3A%2F%2Fboundless-trawler-9f4.notion.site%2FInbeom-s-Profile-342b42bc3a3e427f8aa7a20638a40f1b">
+<a href="https://boundless-trawler-9f4.notion.site/Inbeom-s-Profile-342b42bc3a3e427f8aa7a20638a40f1b"> <img alt="Notion URL" src="https://img.shields.io/twitter/url?color=skyblue&label=Notion&style=for-the-badge&url=https%3A%2F%2Fboundless-trawler-9f4.notion.site%2FInbeom-s-Profile-342b42bc3a3e427f8aa7a20638a40f1b"></a>
   <code><a href="https://www.notion.so/Inbeom-s-Profile-342b42bc3a3e427f8aa7a20638a40f1b" title="GMail"><img width="22" src="???.svg"> Profile</a></code>
   <code><a href="https://www.notion.so/cf07b473bd1a48a39cec462f39c0e814?v=592ece0c79c841b5869ad7de03f5de7d&p=fb30ed52320c48dc851375204db6842c&pm=s" title="GMail"><img width="22" src="???.svg"> Tech Blog</a></code>
   <code><a href="https://www.google.com/gmail/about/" title="GMail"><img width="22" src="???.svg"> robor082373@gmail.com</a></code>
