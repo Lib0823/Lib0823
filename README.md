@@ -9,7 +9,6 @@
 <h5 align="center">
   
 <a href="https://boundless-trawler-9f4.notion.site/Inbeom-s-Profile-342b42bc3a3e427f8aa7a20638a40f1b"> <img alt="Twitter URL" src="https://img.shields.io/twitter/url?color=skyblue&label=Profile&logoColor=green&style=for-the-badge&url=https%3A%2F%2Fboundless-trawler-9f4.notion.site%2FInbeom-s-Profile-342b42bc3a3e427f8aa7a20638a40f1b"></a>
-  
  <a href="https://boundless-trawler-9f4.notion.site/cf07b473bd1a48a39cec462f39c0e814?v=592ece0c79c841b5869ad7de03f5de7d"> <img alt="Twitter URL" src="https://img.shields.io/twitter/url?color=green&label=tech%20blog&logoColor=green&style=for-the-badge&url=https%3A%2F%2Fboundless-trawler-9f4.notion.site%2FInbeom-s-Profile-342b42bc3a3e427f8aa7a20638a40f1b"></a>
   
   <img alt="Gmail" src="https://img.shields.io/badge/Gmail-robor082373%40gmail.com-red">
@@ -21,14 +20,14 @@
  <b>Hi, I'm Inbeom Lee, computer system undergraduate & backend developer from SouthKorea</b>
   <br>
   <br>
-- 🔭 I’m currently working on ...       <br>
-- 🌱 I’m currently learning ...         <br>
-- 👯 I’m looking to collaborate on ...  <br>
-- 🤔 I’m looking for help with ...      <br>
-- 💬 Ask me about ...                   <br>
-- 📫 How to reach me: ...               <br>
-- 😄 Pronouns: ...                      <br>
-- ⚡ Fun fact: ...                      <br> 
+- 🔭 I’m currently working on 'working mate' project       <br>
+- 🌱 I’m currently learning springboot & server         <br>
+- 👯 I’m looking to collaborate on front-end developer  <br>
+- 🤔 I’m looking for help with deep learning      <br>
+- 💬 Ask me about Java-based backend technology & fitness     <br>
+- 📫 How to reach me: please refer to the above email address or kakaotalk id  <br>
+- 😄 Pronouns: I prefer to be called he or man                     <br>
+- ⚡ Fun fact: I go to the gym every day, I love protein, and I live with a cat named Card.                    <br> 
 </p>
 
 <hr>
