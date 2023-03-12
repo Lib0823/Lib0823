@@ -20,13 +20,14 @@
  <b>Hi, I'm Inbeom Lee, computer system undergraduate & backend developer from SouthKorea</b>
   <br>
   <br>
-- 🔭 I’m currently working on 'working mate' project       <br>
-- 🌱 I’m currently learning springboot & server         <br>
+- 🧑‍💻 I’m currently working on 'working mate' project       <br>
+- 📝 I’m currently learning springboot & server         <br>
 - 👯 I’m looking to collaborate on front-end developer  <br>
 - 🤔 I’m looking for help with deep learning      <br>
+- 🏋️‍♂️ I’m interested in smart healthcare services    <br>
 - 💬 Ask me about Java-based backend technology & fitness     <br>
 - 📫 How to reach me: please refer to the above email address or kakaotalk id  <br>
-- ⚡ Fun fact: I go to the gym every day, I love protein, and I live with a cat named Card.                    <br> 
+- 🕒 Daily: I go to the gym often and I live with a cat named Card.      <br> 
 </p>
 
 <hr>
