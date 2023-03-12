@@ -26,7 +26,6 @@
 - 🤔 I’m looking for help with deep learning      <br>
 - 💬 Ask me about Java-based backend technology & fitness     <br>
 - 📫 How to reach me: please refer to the above email address or kakaotalk id  <br>
-- 😄 Pronouns: I prefer to be called he or man                     <br>
 - ⚡ Fun fact: I go to the gym every day, I love protein, and I live with a cat named Card.                    <br> 
 </p>
 
@@ -34,6 +33,7 @@
 <h2 align="center">🔥 Languages & Frameworks & Tools & Abilities 🔥</h2>
 <br>
 <p align="center">
+  _________________________________________⭐⭐⭐_________________________________________<br>
   <code><img title="Java" height="40" src="https://user-images.githubusercontent.com/89591782/223758870-2da659e7-8af8-4ad0-8e89-b60f2edaffc1.png"></code>
   <code><img title="C" height="40" src="https://user-images.githubusercontent.com/89591782/223757643-bc64d590-4c68-40c4-a800-bd0292db4f4f.png"></code>
   <code><img title="Python" height="40" src="https://user-images.githubusercontent.com/89591782/223758852-0c51fa39-74b4-4bb3-bc0a-5a5b57cb7797.png"></code>
@@ -42,6 +42,7 @@
   <code><img title="XML" height="40" src="https://user-images.githubusercontent.com/89591782/223763881-78b7960e-1937-42f7-a637-1180c073db43.png"></code>
   <code><img title="PHP" height="40" src="https://user-images.githubusercontent.com/89591782/223768475-571debad-ab92-4999-af4f-165e753d7b10.png"></code>
   <br>
+  ___________________________________________⭐⭐___________________________________________<br>
   <code><img title="AndroidStudio" height="40" src="https://user-images.githubusercontent.com/89591782/223763870-1586036a-3b23-46d8-a4ae-d4019451d063.png"></code>
   <code><img title="JSP" height="40" src="https://user-images.githubusercontent.com/89591782/223761481-66696527-5e13-4bdb-bdab-55c199257466.png"></code>
   <code><img title="Spring" height="40" src="https://user-images.githubusercontent.com/89591782/223762769-f217c64c-1f8a-4a4d-b536-beb2d70ffa10.png"></code>
@@ -50,6 +51,7 @@
   <code><img title="SpringSecurity" height="40" src="https://user-images.githubusercontent.com/89591782/223765041-48818eb4-170e-4ca7-9b0a-2f16ad0057a2.png"></code>
   <code><img title="JUnit" height="40" src="https://user-images.githubusercontent.com/89591782/223765899-a32e0591-df4a-4f5e-ba65-52f2e4fba9fb.png"></code>
   <br>
+  _____________________________________________⭐_____________________________________________<br>
   <code><img title="MySQL" height="40" src="https://user-images.githubusercontent.com/89591782/223769738-9ef9c4f4-3634-4063-9ee3-43872d6a6cef.png"></code>
   <code><img title="Oracle" height="40" src="https://user-images.githubusercontent.com/89591782/223769840-31999a57-102a-4a2d-88ed-3502ae6e78ef.png"></code>
   <code><img title="SqlLite" height="40" src="https://user-images.githubusercontent.com/89591782/223769848-fdaf0e6d-6f0b-4f4e-8d95-d9d19bc35599.png"></code>
@@ -67,6 +69,7 @@
   <code><img title="Linux" height="40" src="https://user-images.githubusercontent.com/89591782/223771513-78305368-d1bd-41dc-84e1-83e0a4ff86ec.png"></code>
   <code><img title="AWS" height="40" src="https://user-images.githubusercontent.com/89591782/223771489-f56de9bc-38dd-4f27-a6be-a5a21de0f34c.png"></code>
 </p>
+<br>
 <hr>
 
 <h2 align="center">⚡ Stats ⚡</h2>
