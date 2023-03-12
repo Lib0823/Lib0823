@@ -66,7 +66,6 @@
   <code><img title="Windows" height="40" src="https://user-images.githubusercontent.com/89591782/223771772-779b5667-608f-445e-aa69-e48cd6603772.png"></code>
   <code><img title="Linux" height="40" src="https://user-images.githubusercontent.com/89591782/223771513-78305368-d1bd-41dc-84e1-83e0a4ff86ec.png"></code>
   <code><img title="AWS" height="40" src="https://user-images.githubusercontent.com/89591782/223771489-f56de9bc-38dd-4f27-a6be-a5a21de0f34c.png"></code>
-  <code><img title="restAPI" height="40" src="https://user-images.githubusercontent.com/89591782/223771786-95480358-a650-44ab-8a35-2a20babf06a1.svg"></code>
 </p>
 <hr>
 
