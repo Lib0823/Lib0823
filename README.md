@@ -31,7 +31,7 @@
 </p>
 
 <hr>
-<h2 align="center">🔥 Languages & Frameworks & Tools & Abilities 🔥</h2>
+<h2 align="center">🔥 Languages & Frameworks & Tools Abilities 🔥</h2>
 <p align="center">
   ⭐⭐⭐<br>
   <code><img title="Java" height="40" src="https://user-images.githubusercontent.com/89591782/223758870-2da659e7-8af8-4ad0-8e89-b60f2edaffc1.png"></code>
