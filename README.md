@@ -69,7 +69,7 @@
   <code><img title="Git" height="40" src="https://user-images.githubusercontent.com/89591782/223766428-ef5c2298-eb2a-499e-acc4-ede92b69320b.png"></code>
   <code><img title="AWS" height="40" src="https://user-images.githubusercontent.com/89591782/223771489-f56de9bc-38dd-4f27-a6be-a5a21de0f34c.png"></code>
   <code><img title="MySQLworkbench" height="40" src="https://user-images.githubusercontent.com/89591782/223767748-ab29b37d-df94-4155-86b6-6d4f2c016272.png"></code>
-  <code><img title="Replit" height="40" src="https://user-images.githubusercontent.com/89591782/223767748-ab29b37d-df94-4155-86b6-6d4f2c016272.png"></code>
+  <code><img title="Replit" height="40" src="https://user-images.githubusercontent.com/89591782/230511328-7c560a7c-4bb7-43d5-95cf-c7b1d34c9f1e.png"></code>
 </div>
 <hr>
 
