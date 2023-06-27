@@ -17,12 +17,12 @@
 </h5>
 <br>
 <p align="center">
- <b>Hi, I'm Inbeom Lee, computer system undergraduate & backend developer from SouthKorea</b>
+ <b>Hi, I'm Inbeom Lee! backend developer from SouthKorea</b>
   <br>
   <br>
 - 🧑‍💻 I’m currently working on 'working mate' project       <br>
-- 📝 I’m currently learning springboot & server         <br>
-- 👯 I’m looking to collaborate on front-end developer  <br>
+- 📝 I’m currently learning springboot & security         <br>
+- 👯 I’m looking to collaborate on publisher developer  <br>
 - 🤔 I’m looking for help with deep learning      <br>
 - 🏋️‍♂️ I’m interested in smart healthcare services    <br>
 - 💬 Ask me about Java-based backend technology & fitness     <br>
