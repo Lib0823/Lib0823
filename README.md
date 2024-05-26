@@ -2,7 +2,7 @@
 
 <h1 align="center">
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com/?lines=Hello,+There+👋;This+is+Inbeom+Lee,,!;Nice+to+meet+you!&center=true&size=30">
+    <img src="https://readme-typing-svg.herokuapp.com/?lines=Hello 👋;This+is+Inbeom+Lee,,!;Nice+to+meet+you!&center=true&size=30">
   </a>
 </h1>
 
@@ -20,28 +20,22 @@
  <b>Hi, I'm Inbeom Lee! backend developer from SouthKorea</b>
   <br>
   <br>
-- 🧑‍💻 I’m currently working on 'working mate' project       <br>
-- 📝 I’m currently learning springboot & security         <br>
-- 👯 I’m looking to collaborate on publisher developer  <br>
-- 🤔 I’m looking for help with deep learning      <br>
-- 🏋️‍♂️ I’m interested in smart healthcare services    <br>
-- 💬 Ask me about Java-based backend technology & fitness     <br>
+- 🧑‍💻 I’m currently working on 'secret..' project       <br>
+- 📝 I’m currently learning docker & elk stack         <br>
+- 🤔 I’m looking for help with devops      <br>
 - 📫 How to reach me: please refer to the above email address or kakaotalk id  <br>
-- 🕒 Daily: I go to the gym often and I live with a cat named Card.      <br> 
 </p>
 
 <hr>
-<h2 align="center">🔥 Languages & Frameworks Abilities 🔥</h2>
+<h2 align="center">Languages & Frameworks Abilities</h2>
 <p align="center">
   ⭐⭐⭐<br>
   <code><img title="Java" height="40" src="https://user-images.githubusercontent.com/89591782/223758870-2da659e7-8af8-4ad0-8e89-b60f2edaffc1.png"></code>
   <code><img title="Spring" height="40" src="https://user-images.githubusercontent.com/89591782/223762769-f217c64c-1f8a-4a4d-b536-beb2d70ffa10.png"></code>
   <code><img title="SpringBoot" height="40" src="https://user-images.githubusercontent.com/89591782/223762622-a69c41c1-129d-41d9-a840-f9728872fda3.png"></code>
   <code><img title="AndroidStudio" height="40" src="https://user-images.githubusercontent.com/89591782/223763870-1586036a-3b23-46d8-a4ae-d4019451d063.png"></code>
-  <code><img title="MySQL" height="40" src="https://user-images.githubusercontent.com/89591782/231132376-e395682b-a214-49b4-97f5-6d8a8c5d7107.png"></code>
   <br> <br>
   ⭐⭐<br>
-  <code><img title="Python" height="40" src="https://user-images.githubusercontent.com/89591782/223758852-0c51fa39-74b4-4bb3-bc0a-5a5b57cb7797.png"></code>
   <code><img title="Flask" height="40" src="https://user-images.githubusercontent.com/89591782/231137145-38cfbdd1-c88c-47f9-98e9-4e15134f037b.jpg"></code>
   <code><img title="SpringJPA" height="40" src="https://user-images.githubusercontent.com/89591782/223765070-d11e5337-cb8c-4fee-8404-813b08b6e743.png"></code>
   <code><img title="SpringSecurity" height="40" src="https://user-images.githubusercontent.com/89591782/223765041-48818eb4-170e-4ca7-9b0a-2f16ad0057a2.png"></code>
@@ -50,8 +44,10 @@
    <code><img title="JSP" height="40" src="https://user-images.githubusercontent.com/89591782/231131293-fac3353a-fc36-43ac-b4b9-3213baac3f09.png"></code>
   <code><img title="Linux" height="40" src="https://user-images.githubusercontent.com/89591782/223771513-78305368-d1bd-41dc-84e1-83e0a4ff86ec.png"></code>
   <code><img title="AWS EC2" height="40" src="https://user-images.githubusercontent.com/89591782/231134999-f6ce396d-92e2-4b23-a49a-29b84a11445a.png"></code>
+    <code><img title="MySQL" height="40" src="https://user-images.githubusercontent.com/89591782/231132376-e395682b-a214-49b4-97f5-6d8a8c5d7107.png"></code>
   <br> <br>
   ⭐<br>
+    <code><img title="Python" height="40" src="https://user-images.githubusercontent.com/89591782/223758852-0c51fa39-74b4-4bb3-bc0a-5a5b57cb7797.png"></code>
   <code><img title="C" height="40" src="https://user-images.githubusercontent.com/89591782/223757643-bc64d590-4c68-40c4-a800-bd0292db4f4f.png"></code>
   <code><img title="Vue.js" height="40" src="https://github.com/Lib0823/Lib0823/assets/89591782/64a0dfc1-c6fd-4d27-92cd-7fc10394a23d"></code>
   <code><img title="XML" height="40" src="https://user-images.githubusercontent.com/89591782/223763881-78b7960e-1937-42f7-a637-1180c073db43.png"></code>
@@ -70,10 +66,8 @@
   <code><img title="VScode" height="40" src="https://user-images.githubusercontent.com/89591782/223767159-29f70bd3-5b90-4dec-b0a6-44f73bdf84f9.png"></code>
   <code><img title="Github" height="40" src="https://user-images.githubusercontent.com/89591782/223766417-dc46e6e9-0544-459b-9025-502cb865153c.png"></code>
   <code><img title="Notion" height="40" src="https://user-images.githubusercontent.com/89591782/223766401-cced43c2-5612-46e9-96d9-1ed5bd3ef108.png"></code>
-  <code><img title="Eclipse" height="40" src="https://user-images.githubusercontent.com/89591782/223767176-a79e1644-6d35-4d8f-a35e-526432ec0198.png"></code>
   <code><img title="Git" height="40" src="https://user-images.githubusercontent.com/89591782/223766428-ef5c2298-eb2a-499e-acc4-ede92b69320b.png"></code>
   <code><img title="MySQLworkbench" height="40" src="https://user-images.githubusercontent.com/89591782/223767748-ab29b37d-df94-4155-86b6-6d4f2c016272.png"></code>
-  <code><img title="Replit" height="40" src="https://user-images.githubusercontent.com/89591782/230511328-7c560a7c-4bb7-43d5-95cf-c7b1d34c9f1e.png"></code>
   <code><img title="goormIDE" height="40" src="https://user-images.githubusercontent.com/89591782/231130760-6fff4e44-f5fb-41d2-89e7-8b009a255a98.jpeg"></code>
 </div>
 <hr>
