@@ -2,8 +2,8 @@
 
 <h5 align="center">
   
-<a href="https://inbeom.notion.site/Inbeom-s-Profile-342b42bc3a3e427f8aa7a20638a40f1b" target="_blank"> <img alt="Profile URL" src="https://img.shields.io/twitter/url?color=skyblue&label=Profile&logoColor=green&style=for-the-badge&url=https%3A%2F%2Fboundless-trawler-9f4.notion.site%2FInbeom-s-Profile-342b42bc3a3e427f8aa7a20638a40f1b"></a>
- <a href="https://inbeom.tistory.com/" target="_blank"> <img alt="Blog URL" src="https://img.shields.io/twitter/url?color=green&label=tech%20blog&logoColor=green&style=for-the-badge&url=https%3A%2F%2Fboundless-trawler-9f4.notion.site%2FInbeom-s-Profile-342b42bc3a3e427f8aa7a20638a40f1b"></a>
+<a href="https://inbeom.notion.site/Inbeom-s-Profile-342b42bc3a3e427f8aa7a20638a40f1b" target="_blank"> 👨🏻‍💻 <img alt="Profile URL" src="https://img.shields.io/twitter/url?color=skyblue&label=Profile&logoColor=green&style=for-the-badge&url=https%3A%2F%2Fboundless-trawler-9f4.notion.site%2FInbeom-s-Profile-342b42bc3a3e427f8aa7a20638a40f1b"></a>
+ <a href="https://inbeom.tistory.com/" target="_blank">📚 <img alt="Blog URL" src="https://img.shields.io/twitter/url?color=green&label=tech%20blog&logoColor=green&style=for-the-badge&url=https%3A%2F%2Fboundless-trawler-9f4.notion.site%2FInbeom-s-Profile-342b42bc3a3e427f8aa7a20638a40f1b"></a>
   
   <img alt="Mail" src="https://img.shields.io/badge/Mail-robot082373@naver.com-red">
   <img alt="KakaoTalk" src="https://img.shields.io/badge/Kakao-robor8667%40-yellow">
