@@ -1,47 +1,52 @@
 <img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=Lib0823.Lib0823">
 
 <h5 align="center">
-  
-<a href="https://inbeom.notion.site/Inbeom-s-Profile-342b42bc3a3e427f8aa7a20638a40f1b" target="_blank"> 👨🏻‍💻 <img alt="Profile URL" src="https://img.shields.io/twitter/url?color=skyblue&label=Profile&logoColor=green&style=for-the-badge&url=https%3A%2F%2Fboundless-trawler-9f4.notion.site%2FInbeom-s-Profile-342b42bc3a3e427f8aa7a20638a40f1b"></a>
- <a href="https://inbeom.tistory.com/" target="_blank">📚 <img alt="Blog URL" src="https://img.shields.io/twitter/url?color=green&label=tech%20blog&logoColor=green&style=for-the-badge&url=https%3A%2F%2Fboundless-trawler-9f4.notion.site%2FInbeom-s-Profile-342b42bc3a3e427f8aa7a20638a40f1b"></a>
-  
-  <img alt="Mail" src="https://img.shields.io/badge/Mail-robot082373@naver.com-red">
-  <img alt="KakaoTalk" src="https://img.shields.io/badge/Kakao-robor8667%40-yellow">
-  
+  <a href="https://inbeom.notion.site/Inbeom-s-Profile-342b42bc3a3e427f8aa7a20638a40f1b" target="_blank">
+    <h2>👨🏻‍💻 Profile</h2>
+  </a>
+  <a href="https://inbeom.tistory.com/" target="_blank"> 
+    <h2>📚 TechBlog</h2>
+  </a>
 </h5>
+
 <br>
 <p align="center">
  <b>Hi, I'm Inbeom Lee! backend developer from SouthKorea</b>
   <br>
   <br>
 - 🧑‍💻 I’m currently working on Information security project       <br>
-- 📝 I’m currently learning Linux server         <br>
+- 📝 I’m currently learning Linux server and Advanced Java       <br>
+<br>
+  <img alt="Mail" src="https://img.shields.io/badge/Mail-robot082373@naver.com-red">
+  &nbsp;&nbsp;
+  <img alt="KakaoTalk" src="https://img.shields.io/badge/Kakao-robor8667%40-yellow">
 </p>
 
 <hr>
 <h2 align="center">Technical Proficiency</h2>
 <p align="center">
-  ⭐⭐⭐<br>
-  <code><img title="Java" height="40" src="https://user-images.githubusercontent.com/89591782/223758870-2da659e7-8af8-4ad0-8e89-b60f2edaffc1.png"></code>
-  <code><img title="SpringFramework(Boot)" height="40" src="https://user-images.githubusercontent.com/89591782/223762622-a69c41c1-129d-41d9-a840-f9728872fda3.png"></code>
-  <code><img title="JUnit" height="40" src="https://user-images.githubusercontent.com/89591782/223765899-a32e0591-df4a-4f5e-ba65-52f2e4fba9fb.png"></code>
-  PostgrSQL
-  Elasticsearch
+  🥇Core<br>
+  <img src="https://img.shields.io/badge/java-6DB33F?style=for-the-badge&logo=java&logoColor=white"> 
+  <img src="https://img.shields.io/badge/spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white">
+  <img src="https://img.shields.io/badge/mybatis-6DB33F?style=for-the-badge&logo=mybatis&logoColor=white">
+  <img src="https://img.shields.io/badge/junit5-6DB33F?style=for-the-badge&logo=junit5&logoColor=white">
+  <img src="https://img.shields.io/badge/postgresql-6DB33F?style=for-the-badge&logo=postgresql&logoColor=white">
+  <img src="https://img.shields.io/badge/elasticsearch-6DB33F?style=for-the-badge&logo=elasticsearch&logoColor=white">
   <br> <br>
-  ⭐⭐<br>
-  <code><img title="Linux" height="40" src="https://user-images.githubusercontent.com/89591782/223771513-78305368-d1bd-41dc-84e1-83e0a4ff86ec.png"></code>
-  <code><img title="SpringJPA" height="40" src="https://user-images.githubusercontent.com/89591782/223765070-d11e5337-cb8c-4fee-8404-813b08b6e743.png"></code>
-  <code><img title="SpringSecurity" height="40" src="https://user-images.githubusercontent.com/89591782/223765041-48818eb4-170e-4ca7-9b0a-2f16ad0057a2.png"></code>
-  <code><img title="AndroidStudio" height="40" src="https://user-images.githubusercontent.com/89591782/223763870-1586036a-3b23-46d8-a4ae-d4019451d063.png"></code>
-  <code><img title="Vue.js" height="40" src="https://github.com/Lib0823/Lib0823/assets/89591782/64a0dfc1-c6fd-4d27-92cd-7fc10394a23d"></code>
-  <code><img title="MySQL" height="40" src="https://user-images.githubusercontent.com/89591782/231132376-e395682b-a214-49b4-97f5-6d8a8c5d7107.png"></code>
+  🥈Secondary<br>
+  <img src="https://img.shields.io/badge/linux-6DB33F?style=for-the-badge&logo=linux&logoColor=white">
+  <img src="https://img.shields.io/badge/jpa-6DB33F?style=for-the-badge&logo=jpa&logoColor=white">
+  <img src="https://img.shields.io/badge/security-6DB33F?style=for-the-badge&logo=springsecurity&logoColor=white">
+  <img src="https://img.shields.io/badge/android-6DB33F?style=for-the-badge&logo=android&logoColor=white">
+  <img src="https://img.shields.io/badge/vue.js-6DB33F?style=for-the-badge&logo=vue.js&logoColor=white">
+  <img src="https://img.shields.io/badge/mysql-6DB33F?style=for-the-badge&logo=mysql&logoColor=white">
   <br> <br>
-  ⭐<br>
-  <code><img title="Python" height="40" src="https://user-images.githubusercontent.com/89591782/223758852-0c51fa39-74b4-4bb3-bc0a-5a5b57cb7797.png"></code>
-  <code><img title="JSP" height="40" src="https://user-images.githubusercontent.com/89591782/231131293-fac3353a-fc36-43ac-b4b9-3213baac3f09.png"></code>
-  <code><img title="SqlLite" height="40" src="https://user-images.githubusercontent.com/89591782/231133209-bee9c7f9-a5d2-41b1-bfa6-b8ac189a5e42.png"></code>
-  <code><img title="PHP" height="40" src="https://user-images.githubusercontent.com/89591782/231133857-f8c44841-6e6d-4757-979a-9bf84de88b0b.png"></code>
-  
+  🥉Familiar<br>
+  <img src="https://img.shields.io/badge/python-6DB33F?style=for-the-badge&logo=python&logoColor=white">
+  <img src="https://img.shields.io/badge/jsp-6DB33F?style=for-the-badge&logo=jsp&logoColor=white">
+  <img src="https://img.shields.io/badge/prometheus-6DB33F?style=for-the-badge&logo=prometheus&logoColor=white">
+  <img src="https://img.shields.io/badge/grafana-6DB33F?style=for-the-badge&logo=grafana&logoColor=white">
+  <img src="https://img.shields.io/badge/sqlite-6DB33F?style=for-the-badge&logo=sqlite&logoColor=white">
 </p>
 <br>
 <h5 align="center">Tools</h5>
@@ -80,19 +85,14 @@
 <br>
 <div width="100%" align="center">
   <a align="center" href="https://github.com/woojin0906/MiracleStep_App" title="MiracleStep-App"><img align="center" height="115" style="padding: 10px;" src="https://github-readme-stats.vercel.app/api/pin/?username=woojin0906&repo=MiracleStep_App&theme=react&border_color=61dafb&border_radius=10"></a>
-
-  <br>
-  
-  <a align="center" href="https://github.com/Lib0823/SmartHealthCare-App" title="SmartHealthCare-App"><img align="center" height="115" style="padding: 10px;" src="https://github-readme-stats.vercel.app/api/pin/?username=Lib0823&repo=SmartHealthCare-App&theme=react&border_color=61dafb&border_radius=10"></a>
-
+<p> </p>
   <br>
   
   <a align="center" href="https://github.com/Lib0823/Chatbot_restAPI-GPT2" title="Chatbot(gpt)-API"><img align="center" height="115" style="padding: 10px;" src="https://github-readme-stats.vercel.app/api/pin/?username=Lib0823&repo=Chatbot_restAPI-GPT2&theme=react&border_color=61dafb&border_radius=10"></a>
 </div>
-<br/><br/>
-
+<br/>
 
 <h4 align="center">
-  <a href="https://github.com/Lib0823?tab=repositories" title="Show Repositories">Show More</a>
+  <a href="https://github.com/Lib0823?tab=repositories" title="Show Repositories">Show More..</a>
 </h4>
 
