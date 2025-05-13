@@ -52,9 +52,10 @@
 <h5 align="center">Tools</h5>
 <div align="center">
   <code><img title="IntelliJ" height="40" src="https://user-images.githubusercontent.com/89591782/223767182-7a7091ec-a6ec-414c-9836-6c486441f671.png"></code>
+  <code><img title="Git" height="40" src="https://user-images.githubusercontent.com/89591782/223766428-ef5c2298-eb2a-499e-acc4-ede92b69320b.png"></code>
   <code><img title="Github" height="40" src="https://user-images.githubusercontent.com/89591782/223766417-dc46e6e9-0544-459b-9025-502cb865153c.png"></code>
   <code><img title="Notion" height="40" src="https://user-images.githubusercontent.com/89591782/223766401-cced43c2-5612-46e9-96d9-1ed5bd3ef108.png"></code>
-  <code><img title="Git" height="40" src="https://user-images.githubusercontent.com/89591782/223766428-ef5c2298-eb2a-499e-acc4-ede92b69320b.png"></code>
+  <code>Figma</code>
 </div>
 <hr>
 
