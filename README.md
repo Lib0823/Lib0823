@@ -11,11 +11,11 @@
 
 <br>
 <p align="center">
- <b>Hi, I'm Inbeom Lee! backend developer from SouthKorea</b>
+ <b>Hi, I'm Inbeom Lee! web backend developer from SouthKorea</b>
   <br>
   <br>
 - 🧑‍💻 I’m currently working on Information security project       <br>
-- 📝 I’m currently learning Linux server and Advanced Java       <br>
+- 📝 I’m currently learning cloude server and Advanced Java       <br>
 <br>
   <img alt="Mail" src="https://img.shields.io/badge/Mail-robot082373@naver.com-red">
   &nbsp;&nbsp;
