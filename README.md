@@ -34,10 +34,10 @@ public class Developer {
     }
 }
 ```
-
+  
 ### 🎓 Education Path
 > 한양공업고등학교(컴퓨터 네트워크과) → 인하공업전문대학(컴퓨터시스템과) → 청운대학교(컴퓨터공학과) → **서강대학교 AI·SW 대학원(소프트웨어공학)**
-
+  
 ### 💼 Current Role
 - **WEEDS KOREA** - 개인정보보호 보안 솔루션 개발
   - DISCOVER (보안 위험 모니터링), ZONE (사용이력 관리), BOARD (비정상 행위 관리)
@@ -72,7 +72,6 @@ public class Developer {
 <div align="center">
 
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 ![Jenkins](https://img.shields.io/badge/Jenkins-D24939?style=for-the-badge&logo=jenkins&logoColor=white)
 ![Prometheus](https://img.shields.io/badge/Prometheus-E6522C?style=for-the-badge&logo=prometheus&logoColor=white)
 ![Grafana](https://img.shields.io/badge/Grafana-F46800?style=for-the-badge&logo=grafana&logoColor=white)
@@ -90,67 +89,14 @@ public class Developer {
 
 </div>
 
-
----
-
-## 📊 GitHub Stats
-
-<div align="center">
-  
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Lib0823&theme=tokyonight&hide_border=true&background=0D1117&stroke=0D1117&ring=58A6FF&fire=FF6B6B&currStreakLabel=58A6FF)
-
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=Lib0823&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=58A6FF&icon_color=58A6FF&text_color=C9D1D9" />
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Lib0823&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=58A6FF&text_color=C9D1D9&hide=c%23,powershell,Mathematica,Ruby,Objective-C,Objective-C%2b%2b,Cuda" />
-
-</div>
-
----
-
-## 🏆 Key Achievements
-
-```typescript
-const achievements = {
-  certification: "GS 인증 1등급 획득",
-  development: [
-    "TDD 기반 개발 프로세스 구축",
-    "CI/CD 파이프라인 구현 및 운영",
-    "대용량 데이터 처리 시스템 최적화"
-  ],
-  infrastructure: [
-    "Docker 컨테이너 기반 개발 환경 구축 및 운영",
-    "서버 모니터링 시스템 구축 (Prometheus + Grafana)",
-    "리소스 최적화 및 트러블슈팅"
-  ],
-  community: [
-    "기술 블로그 운영 (Tistory)",
-    "Google I/O, AWS Summit 등 컨퍼런스 참여",
-    "지속적인 기술 학습 및 공유"
-  ]
-};
-```
-
 ---
 
 ## 🔭 Current Focus
 
-- 🎯 **대학원 진학 준비**: 분산 시스템 및 소프트웨어 아키텍처 연구
+- 🎯 **대학원 연구**: 분산 시스템 및 소프트웨어 아키텍처 연구
 - 🤖 **AI 도구 활용**: MCP, Claude Skills를 활용한 개발 워크플로우 개선
-- 🔒 **보안 솔루션 고도화**: WEEDS 제품군 기능 개선 및 성능 최적화
 - 🐳 **인프라 자동화**: Docker 기반 개발 환경 개선 및 CI/CD 파이프라인 고도화
 - 📈 **데이터베이스 최적화**: PostgreSQL 쿼리 성능 튜닝 및 Elasticsearch 검색 최적화
-
----
-
-## 📫 Connect With Me
-
-<div align="center">
-
-[![Notion Profile](https://img.shields.io/badge/Detailed_Profile-Notion-000000?style=for-the-badge&logo=notion&logoColor=white)](https://inbeom.notion.site/Inbeom-s-Profile-342b42bc3a3e427f8aa7a20638a40f1b)
-[![Tech Blog](https://img.shields.io/badge/Tech_Blog-Tistory-FF6B00?style=for-the-badge&logo=tistory&logoColor=white)](https://inbeom.tistory.com/)
-[![Email](https://img.shields.io/badge/Email-robot082373@naver.com-03C75A?style=for-the-badge&logo=naver&logoColor=white)](mailto:robot082373@naver.com)
-[![KakaoTalk](https://img.shields.io/badge/KakaoTalk-robor8667-FFCD00?style=for-the-badge&logo=kakaotalk&logoColor=black)](https://open.kakao.com/)
-
-</div>
 
 ---
 
@@ -158,8 +104,8 @@ const achievements = {
 
 <div align="center">
 
-[![MiracleStep App](https://github-readme-stats.vercel.app/api/pin/?username=woojin0906&repo=MiracleStep_App&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=58A6FF&icon_color=58A6FF&text_color=C9D1D9)](https://github.com/woojin0906/MiracleStep_App)
-[![Chatbot GPT2 API](https://github-readme-stats.vercel.app/api/pin/?username=Lib0823&repo=Chatbot_restAPI-GPT2&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=58A6FF&icon_color=58A6FF&text_color=C9D1D9)](https://github.com/Lib0823/Chatbot_restAPI-GPT2)
+[![MiracleStep App](https://github-readme-stats.vercel.app/api/pin/?username=Lib0823&repo=SmartHealthCare-APP&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=58A6FF&icon_color=58A6FF&text_color=C9D1D9)](https://github.com/Lib0823/SmartHealthCare-APP)
+[![Chatbot GPT2 API](https://github-readme-stats.vercel.app/api/pin/?username=Lib0823&repo=Grafana_Docker-dashboard&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=58A6FF&icon_color=58A6FF&text_color=C9D1D9)](https://github.com/Lib0823/Grafana_Docker-dashboard)
 
 <br>
 
