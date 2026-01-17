@@ -2,7 +2,7 @@
 
 # 👋 안녕하세요, 이인범입니다
 
-### Backend Developer | Security Solutions | Distributed Systems Enthusiast
+### Backend Developer | Security Solutions | Distributed Systems Research
 
 [![Profile](https://img.shields.io/badge/📋_Profile-Notion-000000?style=for-the-badge&logo=notion&logoColor=white)](https://inbeom.notion.site/Inbeom-s-Profile-342b42bc3a3e427f8aa7a20638a40f1b) 
 [![Blog](https://img.shields.io/badge/📚_Tech_Blog-Tistory-FF6B00?style=for-the-badge&logo=tistory&logoColor=white)](https://inbeom.tistory.com/)
