@@ -103,10 +103,10 @@ public class Developer {
 ## 💡 Featured Repositories
 
 <div align="center">
-
-[![MiracleStep App](https://github-readme-stats.vercel.app/api/pin/?username=Lib0823&repo=SmartHealthCare-APP&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=58A6FF&icon_color=58A6FF&text_color=C9D1D9)](https://github.com/Lib0823/SmartHealthCare-APP)
-[![Chatbot GPT2 API](https://github-readme-stats.vercel.app/api/pin/?username=Lib0823&repo=Grafana_Docker-dashboard&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=58A6FF&icon_color=58A6FF&text_color=C9D1D9)](https://github.com/Lib0823/Grafana_Docker-dashboard)
-
+    
+[![AssetManage_Agent](https://github-readme-stats.vercel.app/api/pin/?username=Lib0823&repo=AssetManage_Agent-Project&theme=tokyonight&hide_border=true&bg_color=00497a&title_color=d58301&icon_color=58A6FF&text_color=C9D1D9)](https://github.com/Lib0823/AssetManage_Agent-Project)
+<br>
+[![Grafana_Docker](https://github-readme-stats.vercel.app/api/pin/?username=Lib0823&repo=Grafana_Docker-dashboard&theme=tokyonight&hide_border=true&bg_color=00497a&title_color=d58301&icon_color=58A6FF&text_color=C9D1D9)](https://github.com/Lib0823/Grafana_Docker-dashboard)
 <br>
 
 [![More Repositories](https://img.shields.io/badge/More_Projects-View_All_Repositories-58A6FF?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Lib0823?tab=repositories)
