@@ -104,7 +104,7 @@ public class Developer {
 
 <div align="center">
     
-[![AssetManage_Agent](https://github-readme-stats.vercel.app/api/pin/?username=Lib0823&repo=AssetManage_Agent-Project&theme=tokyonight&hide_border=true&bg_color=00497a&title_color=d58301&icon_color=58A6FF&text_color=C9D1D9)](https://github.com/Lib0823/AssetManage_Agent-Project)
+[![FinanceManage_Agent](https://github-readme-stats.vercel.app/api/pin/?username=Lib0823&repo=FinanceManage_Agent-Project&theme=tokyonight&hide_border=true&bg_color=00497a&title_color=d58301&icon_color=58A6FF&text_color=C9D1D9)](https://github.com/Lib0823/FinanceManage_Agent-Project)
 <br>
 [![Grafana_Docker](https://github-readme-stats.vercel.app/api/pin/?username=Lib0823&repo=Grafana_Docker-dashboard&theme=tokyonight&hide_border=true&bg_color=00497a&title_color=d58301&icon_color=58A6FF&text_color=C9D1D9)](https://github.com/Lib0823/Grafana_Docker-dashboard)
 <br>
