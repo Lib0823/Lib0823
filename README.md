@@ -42,8 +42,8 @@ public class Developer {
 - **WEEDS KOREA** - 개인정보보호 보안 솔루션 개발
   - DISCOVER (보안 위험 모니터링), ZONE (사용이력 관리), BOARD (비정상 행위 관리)
   - Vue.js + Spring 기반 Full-stack 개발 (Backend 주력)
-  - 내부 개발 서버 Docker 컨테이너 환경 관리 및 운영
-  - 서버 트러블슈팅, 컨테이너 관리, 리소스 모니터링
+  - 내부 개발 서버 K3s 클러스터링 환경 구축 및 운영
+  - 서버 트러블슈팅, 인프라 관리, 리소스 모니터링
 
 ---
 
